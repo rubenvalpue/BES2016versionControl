@@ -4,3 +4,5 @@ hist(x)
 
 hist(x^2)
 
+print(x)
+cat(x)
